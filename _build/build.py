@@ -29,7 +29,7 @@ ORG_ID = f"{SITE}/#organization"
 PERSON_ID = f"{SITE}/#elena"
 WEBSITE_ID = f"{SITE}/#website"
 
-MAILTO = "mailto:elena@temelia.co?subject=Intro%20call"
+BOOKING_URL = "https://cal.com/temelia/30min"
 
 
 def load_guides():
@@ -106,7 +106,7 @@ def page(*, title, description, canonical, ld, crumbs, main_html, md_alt=None, o
   <header class="site">
     <div class="wrap">
       <a class="brand" href="/" aria-label="temelia home">{BRAND_SVG}<span class="wordmark">temelia</span></a>
-      <nav aria-label="Primary"><a href="/guides/">Guides</a><a class="btn small" href="{MAILTO}">Book an intro call</a></nav>
+      <nav aria-label="Primary"><a href="/guides/">Guides</a><a class="btn small" href="{BOOKING_URL}" target="_blank" rel="noopener">Book an intro call</a></nav>
     </div>
   </header>
   <main class="wrap">
@@ -142,7 +142,7 @@ AUTHOR_BOX = f"""
     <section class="cta">
       <h2>Hiring fast in the Bay Area?</h2>
       <p>temelia engagements start at $30,000 per month and have a defined end date. Elena builds the talent system, makes sure your team can run it without her, then steps out.</p>
-      <a class="btn" href="{MAILTO}">Book an intro call</a>
+      <a class="btn" href="{BOOKING_URL}" target="_blank" rel="noopener">Book an intro call</a>
     </section>"""
 
 
