@@ -3,9 +3,272 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Temelia</title>
+  <title>temelia — Talent foundation for early-stage startups</title>
+  <meta name="description" content="Fractional Head of Talent with an end date. Elena Stefanopol builds the talent systems that unlock your next milestone.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --plum: #3D2350;
+      --plum-2: #4A3358;
+      --green: #3F6352;
+      --sage: #557A66;
+      --coral: #C96F5E;
+      --gold: #D9AE5B;
+      --cream: #FBF5EA;
+      --sand: #EEDFCB;
+      --line: #E2D4C0;
+      --muted: #5E5566;
+      --display: 'Space Grotesk', system-ui, sans-serif;
+      --body: 'Inter', system-ui, -apple-system, sans-serif;
+    }
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0;
+      background: var(--cream);
+      color: var(--plum);
+      font-family: var(--body);
+      font-size: 17px;
+      line-height: 1.55;
+    }
+    a { color: var(--plum); }
+    a:hover { color: var(--green); }
+    .wrap { max-width: 1040px; margin: 0 auto; padding-inline: clamp(20px, 5vw, 48px); }
+    h1, h2, h3, .display { font-family: var(--display); font-weight: 700; margin: 0; }
+    .eyebrow {
+      font-size: 12px; font-weight: 700; letter-spacing: 0.16em;
+      text-transform: uppercase; color: var(--green); margin: 0 0 20px;
+    }
+
+    /* Header */
+    header.site { border-bottom: 1.5px solid var(--plum); }
+    header.site .wrap {
+      display: flex; justify-content: space-between; align-items: flex-end;
+      gap: 24px; flex-wrap: wrap; padding-block: 28px 18px;
+    }
+    .brand { display: flex; align-items: flex-end; gap: 14px; text-decoration: none; }
+    .brand svg { width: 14px; height: 98px; flex-shrink: 0; display: block; }
+    .wordmark { font-family: var(--display); font-weight: 700; font-size: 48px; line-height: 0.8; letter-spacing: -0.03em; }
+    .pron { margin-top: 10px; font-size: 14px; line-height: 1.3; }
+    .pron b { font-weight: 500; font-size: 15px; }
+    .tagline { font-size: 12px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+
+    /* Hero */
+    .hero { padding-block: clamp(48px, 9vw, 96px) clamp(40px, 6vw, 64px); }
+    .hero h1 { font-size: clamp(34px, 5.6vw, 58px); line-height: 1.05; letter-spacing: -0.02em; max-width: 18ch; }
+    .hero .sub { margin: 20px 0 0; font-family: var(--display); font-weight: 700; font-size: clamp(20px, 2.4vw, 26px); line-height: 1.25; color: var(--green); }
+    .hero .sub span { color: var(--coral); }
+    .hero .lede { margin: 24px 0 0; font-size: 19px; max-width: 46ch; }
+    .btn {
+      display: inline-block; background: var(--plum); color: var(--cream);
+      font-weight: 600; font-size: 16px; padding: 15px 28px; border-radius: 8px;
+      text-decoration: none; white-space: nowrap; transition: background .15s;
+    }
+    .btn:hover { background: var(--green); color: var(--cream); }
+    .hero .btn { margin-top: 32px; }
+
+    section { padding-block: clamp(36px, 6vw, 56px); }
+
+    /* Problem */
+    .problem h2 { font-size: clamp(24px, 3vw, 30px); margin-bottom: 28px; }
+    .cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 28px; }
+    .col { padding-top: 14px; border-top: 1px solid var(--plum); }
+    .col h3 { font-size: 20px; margin-bottom: 8px; }
+    .col p { margin: 0; }
+
+    /* Why me */
+    .why { background: var(--plum); color: var(--cream); border-radius: 10px; padding: clamp(28px, 5vw, 48px); }
+    .why .eyebrow { color: var(--gold); margin-bottom: 14px; }
+    .why .display { font-size: clamp(26px, 3.6vw, 36px); line-height: 1.15; }
+    .why p { margin: 16px 0 0; font-size: 18px; color: rgba(251,245,234,0.92); max-width: 60ch; }
+
+    /* What I build */
+    .build ul {
+      list-style: none; margin: 0; padding: 0;
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 14px 28px;
+    }
+    .build li { display: flex; align-items: center; gap: 12px; }
+    .build li::before {
+      content: ""; flex-shrink: 0; width: 7px; height: 7px;
+      background: var(--plum); transform: rotate(45deg);
+    }
+
+    /* Examples */
+    .rule { border: 0; border-top: 1px solid var(--line); margin: 0; }
+    .examples .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 28px 40px; }
+    .ex { display: flex; align-items: flex-start; gap: 16px; }
+    .ex img { width: 56px; height: 56px; border-radius: 10px; border: 1px solid var(--line); object-fit: cover; flex-shrink: 0; }
+    .ex h3 { font-size: 20px; line-height: 1.15; }
+    .ex .stage { font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--green); margin-top: 4px; }
+    .ex p { margin: 6px 0 0; }
+    .ex .metric { display: block; margin-top: 4px; font-size: 15px; color: var(--muted); }
+
+    /* Backers */
+    .backers { display: flex; align-items: center; gap: 16px 24px; flex-wrap: wrap; }
+    .backers .eyebrow { margin: 0; }
+    .backers .logos { display: flex; flex-wrap: wrap; gap: 12px; }
+    .backers img { width: 40px; height: 40px; border-radius: 6px; object-fit: cover; display: block; }
+
+    /* Contact */
+    .contact {
+      background: var(--sand); border-radius: 10px; padding: clamp(28px, 5vw, 44px);
+      display: flex; align-items: center; justify-content: space-between; gap: 24px; flex-wrap: wrap;
+    }
+    .contact .display { font-size: clamp(28px, 3.6vw, 36px); margin-bottom: 12px; }
+    .contact .name { font-weight: 600; font-size: 19px; }
+    .contact .meta { color: var(--muted); font-size: 15px; }
+    .contact .meta b { font-family: var(--display); color: var(--plum); }
+
+    footer { padding-block: 32px 48px; font-size: 14px; color: var(--muted); }
+  </style>
 </head>
 <body>
-  <h1>Hello, world!</h1>
+
+  <header class="site">
+    <div class="wrap">
+      <a class="brand" href="/" aria-label="temelia home">
+        <svg viewBox="0 0 88 616" aria-hidden="true">
+          <rect x="0" y="0" width="88" height="10" fill="#3D2350"/>
+          <path d="M44 16 L84 63 L44 110 L4 63 Z" fill="#557A66"/>
+          <path d="M44 114 L84 161 L44 208 L4 161 Z" fill="#C96F5E"/>
+          <path d="M44 212 L84 259 L44 306 L4 259 Z" fill="#4A3358"/>
+          <path d="M44 310 L84 357 L44 404 L4 357 Z" fill="#D9A0B0"/>
+          <path d="M44 408 L84 455 L44 502 L4 455 Z" fill="#4F8A99"/>
+          <path d="M44 506 L84 553 L44 600 L4 553 Z" fill="#D9AE5B"/>
+          <rect x="0" y="606" width="88" height="10" fill="#3D2350"/>
+        </svg>
+        <div>
+          <div class="wordmark">temelia</div>
+          <div class="pron"><b>/teh-meh-LEE-ah/</b> · Romanian for “the foundation”</div>
+        </div>
+      </a>
+      <div class="tagline">Talent foundation for early-stage startups</div>
+    </div>
+  </header>
+
+  <main>
+    <div class="wrap">
+
+      <section class="hero">
+        <h1>I build the talent systems that unlock your next milestone.</h1>
+        <p class="sub">So your first talent hire doesn’t have to be a <span>unicorn.</span></p>
+        <p class="lede">You’ve hired your initial team from your network, maybe with help from your VCs and friends of friends. Now you need to scale, and fast.</p>
+        <a class="btn" href="#contact">Book an intro call</a>
+      </section>
+
+      <section class="problem">
+        <h2>None of the usual options fit.</h2>
+        <div class="cols">
+          <div class="col">
+            <h3>Founder-led hiring</h3>
+            <p><b>High agency costs</b>, and RPOs telling you it’s too early. Nobody owns it, so everyone is winging it, the bar varies team to team and you end up in talent wars you don’t need.</p>
+          </div>
+          <div class="col">
+            <h3>Founding recruiter</h3>
+            <p>One of the <b>hardest roles to fill</b>, and your highest risk hire. You need someone strategic, hands-on and willing to do it again. Very few are all three.</p>
+          </div>
+          <div class="col">
+            <h3>Head of Talent</h3>
+            <p>Probably <b>too soon</b>. Most expect to build their own team, not do everything solo, and a wrong fit costs you 6–12 months of hiring momentum.</p>
+          </div>
+        </div>
+      </section>
+
+      <div class="why">
+        <h2 class="eyebrow">Why me</h2>
+        <p class="display" style="margin:0;color:var(--cream)">Fractional Head of Talent with an end date.</p>
+        <p>I build the systems you need, make sure your team can run it without me, then work myself out of the job. I’ve done 0–1 builds my entire career across AI, deep tech, consumer and SMB software.</p>
+      </div>
+
+      <section class="build">
+        <h2 class="eyebrow">What I build</h2>
+        <ul>
+          <li>Hiring bar &amp; talent philosophy</li>
+          <li>Interview process &amp; competencies</li>
+          <li>Role scoping &amp; job descriptions</li>
+          <li>Org design &amp; headcount planning</li>
+          <li>Compensation philosophy</li>
+          <li>Recruiting &amp; people tech stack</li>
+          <li>Leveling &amp; promotions</li>
+          <li>Manager training &amp; coaching</li>
+          <li>Hiring your first recruiter</li>
+        </ul>
+      </section>
+
+      <hr class="rule">
+
+      <section class="examples">
+        <h2 class="eyebrow">A few examples</h2>
+        <div class="grid">
+          <div class="ex">
+            <img src="assets/logos/digital-genius.jpg" alt="Digital Genius logo" width="56" height="56">
+            <div>
+              <h3>Digital Genius</h3>
+              <div class="stage">Seed · London to SF</div>
+              <p>Built the US team that unlocked the Series A.<span class="metric">2 → 15 in 4 months</span></p>
+            </div>
+          </div>
+          <div class="ex">
+            <img src="assets/logos/airbnb.jpg" alt="Airbnb logo" width="56" height="56">
+            <div>
+              <h3>Airbnb Samara</h3>
+              <div class="stage">Confidential R&amp;D lab</div>
+              <p>Hired the specialist team that spun out as Samara.<span class="metric">15 → 45 in 12 months</span></p>
+            </div>
+          </div>
+          <div class="ex">
+            <img src="assets/logos/labelbox.jpg" alt="Labelbox logo" width="56" height="56">
+            <div>
+              <h3>Labelbox</h3>
+              <div class="stage">Series B</div>
+              <p>Built the talent machine through Series D.<span class="metric">50 → 200 in 12 months</span></p>
+            </div>
+          </div>
+          <div class="ex">
+            <img src="assets/logos/rundoo.jpg" alt="Rundoo logo" width="56" height="56">
+            <div>
+              <h3>Rundoo</h3>
+              <div class="stage">Series B</div>
+              <p>Built the team behind 3x ARR.<span class="metric">50 → 100 in 6 months</span></p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <hr class="rule">
+
+      <section class="backers">
+        <h2 class="eyebrow">Worked with companies backed by</h2>
+        <div class="logos">
+          <img src="assets/logos/a16z.jpg" alt="a16z" title="a16z" width="40" height="40">
+          <img src="assets/logos/battery-ventures.jpg" alt="Battery Ventures" title="Battery Ventures" width="40" height="40">
+          <img src="assets/logos/bessemer.jpg" alt="Bessemer Venture Partners" title="Bessemer Venture Partners" width="40" height="40">
+          <img src="assets/logos/b-capital.jpg" alt="B Capital" title="B Capital" width="40" height="40">
+          <img src="assets/logos/first-round.jpg" alt="First Round Capital" title="First Round Capital" width="40" height="40">
+          <img src="assets/logos/gradient-ventures.jpg" alt="Gradient Ventures" title="Gradient Ventures" width="40" height="40">
+          <img src="assets/logos/kleiner-perkins.jpg" alt="Kleiner Perkins" title="Kleiner Perkins" width="40" height="40">
+          <img src="assets/logos/sequoia.jpg" alt="Sequoia Capital" title="Sequoia Capital" width="40" height="40">
+          <img src="assets/logos/y-combinator.jpg" alt="Y Combinator" title="Y Combinator" width="40" height="40">
+        </div>
+      </section>
+
+      <div class="contact" id="contact">
+        <div>
+          <h2 class="display">Let’s talk.</h2>
+          <div class="name">Elena Stefanopol</div>
+          <div class="meta">Founder, <b>temelia</b> · <a href="mailto:elena@temelia.co">elena@temelia.co</a></div>
+        </div>
+        <a class="btn" href="mailto:elena@temelia.co?subject=Intro%20call">Book an intro call</a>
+      </div>
+
+    </div>
+  </main>
+
+  <footer>
+    <div class="wrap">© 2026 temelia</div>
+  </footer>
+
 </body>
 </html>
