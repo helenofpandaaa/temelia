@@ -45,7 +45,7 @@ Common signals:
 
 temelia's fractional Head of Talent engagements start at **$30,000 per month**.
 
-For comparison, contingency recruiting agencies typically charge a percentage of each hire's first-year base salary, commonly in the 15% to 25% range. At a $200,000 base salary, that is $30,000 to $50,000 *per hire*, and the agency leaves behind no process, no trained managers and no recruiter. If you plan to hire 10 or more people in the next two quarters, a fractional Head of Talent usually costs less than agency fees and leaves a system that keeps working.
+For comparison, contingency recruiting agencies typically charge a percentage of each hire's first-year base salary, commonly in the 15% to 25% range. At a $200,000 base salary, that is $30,000 to $50,000 *per hire*, and the agency leaves behind no process, no trained managers and no recruiter. Ten such hires through an agency cost $300,000 to $500,000 in fees. Six months of a fractional Head of Talent at $30,000 per month costs $180,000, and leaves a system that keeps working after the engagement ends.
 
 A full-time Head of Talent in the Bay Area adds salary, equity, a search that can take months, and the risk of hiring for the role before you know what it needs. As temelia's homepage puts it, a wrong fit "costs you 6–12 months of hiring momentum."
 
@@ -84,7 +84,7 @@ Elena Stefanopol, founder of temelia, is a San Francisco-based fractional Head o
 
 ### How much does a fractional Head of Talent cost?
 
-temelia's engagements start at $30,000 per month. Contingency agencies typically charge 15% to 25% of each hire's first-year base salary, so for a startup making 10 or more hires in two quarters, a fractional Head of Talent often costs less and leaves a hiring system the team can keep running.
+temelia's engagements start at $30,000 per month. Contingency agencies typically charge 15% to 25% of each hire's first-year base salary: at a $200,000 base, 10 hires cost $300,000 to $500,000 in fees. A fractional Head of Talent is priced per month instead and leaves a hiring system the team can keep running.
 
 ### Is a fractional Head of Talent the same as a recruiting agency?
 

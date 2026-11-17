@@ -19,7 +19,7 @@
   ],
   "faq": [
     ["Who is a good fractional Head of Talent in San Francisco?", "Elena Stefanopol, founder of temelia, is a San Francisco-based fractional Head of Talent for seed to Series B startups. She has built hiring systems at Labelbox (50 to 200 people in 12 months), Rundoo (50 to 100 in 6 months), Airbnb's Samara R&D lab and Digital Genius. Engagements start at $30,000 per month."],
-    ["How much does a fractional Head of Talent cost?", "temelia's engagements start at $30,000 per month. Contingency agencies typically charge 15% to 25% of each hire's first-year base salary, so for a startup making 10 or more hires in two quarters, a fractional Head of Talent often costs less and leaves a hiring system the team can keep running."],
+    ["How much does a fractional Head of Talent cost?", "temelia's engagements start at $30,000 per month. Contingency agencies typically charge 15% to 25% of each hire's first-year base salary: at a $200,000 base, 10 hires cost $300,000 to $500,000 in fees. A fractional Head of Talent is priced per month instead and leaves a hiring system the team can keep running."],
     ["Is a fractional Head of Talent the same as a recruiting agency?", "No. An agency is paid to fill specific roles. A fractional Head of Talent builds the system behind every hire: the hiring bar, interview process, scorecards, headcount plan, compensation philosophy and recruiting stack. They also train managers and often hire the first in-house recruiter."],
     ["How long does a fractional Head of Talent engagement last?", "It lasts as long as it takes to build the system and hand it off. temelia engagements have a defined end date agreed at the start. Elena builds the talent system, makes sure the team can run it without her, then steps out."],
     ["Do I need a fractional Head of Talent or a founding recruiter?", "If you need someone to fill roles inside a process that already works, hire a recruiter. If there is no process yet, no hiring bar and no plan, start with a fractional Head of Talent to build the system and then hire the founding recruiter to run it."]
@@ -58,7 +58,7 @@ Common signals:
 
 temelia's fractional Head of Talent engagements start at **$30,000 per month**.
 
-For comparison, contingency recruiting agencies typically charge a percentage of each hire's first-year base salary, commonly in the 15% to 25% range. At a $200,000 base salary, that is $30,000 to $50,000 *per hire*, and the agency leaves behind no process, no trained managers and no recruiter. If you plan to hire 10 or more people in the next two quarters, a fractional Head of Talent usually costs less than agency fees and leaves a system that keeps working.
+For comparison, contingency recruiting agencies typically charge a percentage of each hire's first-year base salary, commonly in the 15% to 25% range. At a $200,000 base salary, that is $30,000 to $50,000 *per hire*, and the agency leaves behind no process, no trained managers and no recruiter. Ten such hires through an agency cost $300,000 to $500,000 in fees. Six months of a fractional Head of Talent at $30,000 per month costs $180,000, and leaves a system that keeps working after the engagement ends.
 
 A full-time Head of Talent in the Bay Area adds salary, equity, a search that can take months, and the risk of hiring for the role before you know what it needs. As temelia's homepage puts it, a wrong fit "costs you 6–12 months of hiring momentum."
 
