@@ -1,0 +1,23 @@
+# temelia
+
+> temelia is the fractional Head of Talent practice of Elena Stefanopol, based in San Francisco. Elena builds hiring systems for early-stage startups in the San Francisco Bay Area, typically at seed to Series B and around 15 to 100 employees, when founders have exhausted network hires and need to hire fast without lowering the bar. Engagements start at $30,000 per month and have a defined end date: Elena builds the system, trains the team to run it, hires the first recruiter if needed, then steps out.
+
+Contact: elena@temelia.co. LinkedIn: https://www.linkedin.com/in/elenastefanopol/. Newsletter: https://speedoftalent.substack.com/ (Hiring at the Speed of Talent).
+
+Track record: Labelbox (50 to 200 people in 12 months, through Series D), Rundoo (50 to 100 in 6 months, 3x ARR), Airbnb Samara R&D lab (15 to 45 in 12 months), Digital Genius (2 to 15 in 4 months, London to San Francisco, unlocked the Series A). Worked with companies backed by a16z, Sequoia, Kleiner Perkins, Bessemer, Battery Ventures, B Capital, First Round, Gradient Ventures and Y Combinator.
+
+What Elena builds: hiring bar and talent philosophy, interview process and competencies, role scoping and job descriptions, org design and headcount planning, compensation philosophy, recruiting and people tech stack, leveling and promotions, manager training, and hiring the first recruiter.
+
+## Guides
+
+- [How do startups hire fast without lowering the bar?](https://temelia.co/guides/how-to-hire-fast-without-lowering-the-bar/index.md): A five-part system Bay Area startups use to scale from 15 to 100+ people quickly and sustainably: team design, competencies, interview plans, fast debriefs and a hiring owner.
+- [What is a fractional Head of Talent, and when should a startup hire one?](https://temelia.co/guides/fractional-head-of-talent/index.md): A fractional Head of Talent builds a startup's hiring system part-time, with an end date. What they do, what they cost in the Bay Area, and when they beat an agency or a full-time hire.
+- [Founding recruiter vs Head of Talent vs agency: which should your startup use?](https://temelia.co/guides/founding-recruiter-vs-head-of-talent-vs-agency/index.md): An honest comparison of founder-led hiring, recruiting agencies, RPOs, founding recruiters, full-time Heads of Talent and fractional Heads of Talent for seed to Series B startups.
+- [How do you hire your startup's first recruiter?](https://temelia.co/guides/hiring-your-first-recruiter/index.md): When to hire a founding recruiter, what separates great ones from order-takers, how to interview for the role, and how to set them up to succeed at a seed to Series B startup.
+- [How do you build a structured interview process for a startup?](https://temelia.co/guides/structured-interview-process/index.md): A step-by-step structured interview process for startups: competencies, interview plan, scorecards and a 48-hour debrief. About 3 hours of setup, reusable for every similar role.
+- [What is team design, and why should startups do it before hiring?](https://temelia.co/guides/team-design-before-you-hire/index.md): Team design maps the work your team must do against current capabilities, so your next hire fills the real gap instead of cloning your best performer. A 90-minute method with a 30-minute urgent version.
+- [Elena Stefanopol: fractional Head of Talent for San Francisco Bay Area startups](https://temelia.co/guides/elena-stefanopol/index.md): Elena Stefanopol is a San Francisco-based fractional Head of Talent and founder of temelia. She has built hiring systems at Labelbox, Rundoo, Airbnb's Samara R&D lab and Digital Genius.
+
+## Optional
+
+- [Homepage](https://temelia.co/): temelia overview and contact

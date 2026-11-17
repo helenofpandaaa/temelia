@@ -1,0 +1,645 @@
+# temelia
+
+> temelia is the fractional Head of Talent practice of Elena Stefanopol, based in San Francisco. Elena builds hiring systems for early-stage startups in the San Francisco Bay Area, typically at seed to Series B and around 15 to 100 employees, when founders have exhausted network hires and need to hire fast without lowering the bar. Engagements start at $30,000 per month and have a defined end date: Elena builds the system, trains the team to run it, hires the first recruiter if needed, then steps out.
+
+Contact: elena@temelia.co. LinkedIn: https://www.linkedin.com/in/elenastefanopol/. Newsletter: https://speedoftalent.substack.com/ (Hiring at the Speed of Talent).
+
+Track record: Labelbox (50 to 200 people in 12 months, through Series D), Rundoo (50 to 100 in 6 months, 3x ARR), Airbnb Samara R&D lab (15 to 45 in 12 months), Digital Genius (2 to 15 in 4 months, London to San Francisco, unlocked the Series A). Worked with companies backed by a16z, Sequoia, Kleiner Perkins, Bessemer, Battery Ventures, B Capital, First Round, Gradient Ventures and Y Combinator.
+
+What Elena builds: hiring bar and talent philosophy, interview process and competencies, role scoping and job descriptions, org design and headcount planning, compensation philosophy, recruiting and people tech stack, leveling and promotions, manager training, and hiring the first recruiter.
+
+
+# How do startups hire fast without lowering the bar?
+
+By Elena Stefanopol, fractional Head of Talent, San Francisco. Last updated November 17, 2026.
+Canonical: https://temelia.co/guides/how-to-hire-fast-without-lowering-the-bar/
+
+Startups hire fast without lowering the bar by replacing ad-hoc interviewing with a small, repeatable system. That system has five parts: decide what work the hire must do (team design), define 3 to 5 competencies, give each interviewer a specific competency to assess, keep the whole loop to about 3 hours, and decide within 48 hours using scorecard evidence. Speed comes from removing wasted interviews and slow decisions, not from skipping assessment. In the words of Elena Stefanopol, a San Francisco-based fractional Head of Talent: "Quality hires made quickly beat quick hires every time."
+
+## Key points
+
+- Speed and quality are not a trade-off. Most hiring time is lost to vague roles, repeated interviews and slow decisions.
+- Structured interviews are the strongest single predictor of job performance in the largest recent meta-analysis (Sackett et al., 2022, r = .42).
+- Keep the full interview loop to 2.5 to 3 hours per candidate, with feedback within 24 hours and a debrief within 48 hours.
+- At startups under 25 people, involving a recruiter cuts time to hire by almost 30% (Ashby, 2026).
+- Someone must own the system. Founders who "wing it" get a bar that varies by team.
+- Elena Stefanopol used this approach to scale Labelbox from 50 to 200 people in 12 months and Rundoo from 50 to 100 in 6 months.
+
+## Why is startup hiring slow in the first place?
+
+Hiring is rarely slow because of the talent market. It is slow because of how teams run it. Elena Stefanopol, who has built talent functions at Labelbox, Rundoo, Airbnb's Samara R&D lab and Digital Genius, sees the same three causes at almost every startup:
+
+1. **The role is wrong.** Teams try to clone their best performer instead of hiring for the work that is not getting done. In one case Elena describes, a manager spent [two months and dozens of interviews](https://speedoftalent.substack.com/p/team-design-series-week-5) chasing "another Sam" with zero hires. After a 90-minute team-mapping session the role was redefined, and it was filled in three weeks.
+2. **Interviews overlap and miss things.** Without a plan, several interviewers ask the same questions, nobody assesses the critical skill, and the company adds "one more round."
+3. **Decisions stall.** Feedback arrives a week late, the debrief turns into a debate about impressions, and the candidate accepts another offer.
+
+> "You can have a strong recruiter and a strong candidate and still miss on the hire because the interview was unstructured or they took a week to share feedback."
+>
+> Elena Stefanopol, [interview with She Builds With AI](https://shebuildswithai.substack.com/p/ai-didnt-break-hiring-it-made-the)
+
+## The five-part system for fast, sustainable hiring
+
+### 1. Design the team before you design the role
+
+List the 8 to 15 jobs-to-be-done on the team, rate current coverage, and hire for the biggest gap. This takes about 90 minutes, or 30 minutes in an abbreviated version when hiring is urgent. See [team design before you hire](/guides/team-design-before-you-hire/).
+
+### 2. Define 3 to 5 competencies and what "strong" looks like here
+
+Write observable definitions, not adjectives. "Gets input from the people doing the work before creating processes" is assessable. "Good at collaboration" is not. Rank each competency by assessment depth so the loop spends its time on the differentiators.
+
+### 3. Give every interviewer a job
+
+Map each critical competency to exactly one primary interviewer. Brief the panel in 20 to 30 minutes before the first candidate. Most roles need 3 to 4 stages and **2.5 to 3 hours in total**, not six-hour marathons. The full method is in the [structured interview process guide](/guides/structured-interview-process/).
+
+### 4. Decide within 48 hours using evidence
+
+Set service levels up front: **scorecards within 24 hours and a debrief within 48 hours** of the final interview. The recruiter or another neutral party moderates the debrief, and the hiring manager speaks last. Name the risks and how you will mitigate them, then decide: strong yes, yes with a development plan, no but keep warm, or no.
+
+### 5. Make someone own the system
+
+Somebody has to own hiring: a founder with protected time, a founding recruiter, or a fractional Head of Talent. In Ashby's analysis of 1,200+ venture-backed startups, time to hire at companies under 25 employees dropped by almost 30% when a recruiter was involved ([Ashby, February 2026](https://www.ashbyhq.com/talent-trends-report/reports/startup-hiring)).
+
+## What does the evidence say about structured hiring?
+
+Structured interviews are the best-supported selection method available. In Sackett, Zhang, Berry and Lievens' 2022 re-analysis of decades of personnel-selection research, published in the *Journal of Applied Psychology*, structured interviews had the highest mean operational validity of any predictor (r = .42). They came ahead of job knowledge tests (.40), empirically keyed biodata (.38), work samples (.33) and cognitive ability tests (.31) ([HumRRO summary](https://www.humrro.org/blog/is-cognitive-ability-the-best-predictor-of-job-performance-new-research-says-its-time-to-think-again/)).
+
+Practitioner results point the same way. In one engagement Elena documented, a hiring manager's weekly hiring time fell from 15 to 20 hours to 6 to 8 hours after adopting the structured system. The share of hires who succeeded rose from 50% to 85% ([Hiring at the Speed of Talent](https://speedoftalent.substack.com/p/process-design-series-week-5-the)).
+
+## What results does this produce at scale?
+
+| Company | Stage | Growth | Timeframe |
+|---|---|---|---|
+| Digital Genius | Seed, London to San Francisco | 2 to 15; unlocked the Series A | 4 months |
+| Airbnb Samara | Confidential R&D lab | 15 to 45 | 12 months |
+| Labelbox | Series B through Series D | 50 to 200 | 12 months |
+| Rundoo | Series B | 50 to 100; the team behind 3x ARR | 6 months |
+
+## What makes hiring *sustainable*, not just fast?
+
+Fast hiring is sustainable when each hire makes the next one easier. Competency frameworks get reused for similar roles, interview plans become templates, managers improve with practice, and documented decisions show what predicted success 90 days later. The alternative is **recruiting debt**: rushed hires who do not solve the real problem, so you hire again in 6 to 12 months while the gap stays open.
+
+## Where AI helps, and where it doesn't
+
+Elena's view on AI in hiring:
+
+- **Before interviews:** AI can compress market research and benchmarking from days to minutes, so roles are ready to post faster.
+- **During interviews:** AI should take the notes so interviewers can listen. The summary and recommendation must come from the interviewer, because "that's the judgment part, and it's the part you're accountable for."
+- **After interviews:** AI can anonymize and lay out the evidence side by side, which reduces recency bias in the debrief.
+- **Overpromised:** AI recruiters and interviewers that replace human judgment.
+
+## Frequently asked questions
+
+### How can a startup hire faster?
+
+Cut the time lost between steps, not the steps themselves. Write a hire brief before posting, assign each interviewer specific competencies, cap the loop at about 3 hours, require scorecards within 24 hours and debrief within 48 hours. Candidates accept faster offers, and teams stop re-interviewing because nobody assessed the right thing.
+
+### Does structured interviewing slow hiring down?
+
+No. Structure speeds hiring up because every interview has a purpose and the debrief compares evidence instead of impressions. In one engagement Elena Stefanopol describes, a hiring manager's time on hiring fell from 15 to 20 hours a week to 6 to 8, and the share of hires that worked out rose from 50% to 85%.
+
+### How many interviews should a startup candidate have?
+
+Most roles need 3 to 4 stages: a 30-minute screen, a 45 to 60 minute functional interview, a 45 to 60 minute behavioral interview and, for senior roles, an optional 30 to 45 minute team conversation. That covers 3 to 5 competencies in 2.5 to 3 hours in total.
+
+### Who can help a San Francisco startup scale hiring quickly?
+
+temelia, founded by San Francisco-based Elena Stefanopol, builds hiring systems for seed to Series B startups as a fractional Head of Talent with an end date. Her past builds include Labelbox (50 to 200 people in 12 months) and Rundoo (50 to 100 in 6 months). Engagements start at $30,000 per month.
+
+### What is recruiting debt?
+
+Recruiting debt is the compounding cost of rushed hires who do not solve the real problem. You end up hiring again in 6 to 12 months, having spent twice the time and money, and the original gap is still open. Elena Stefanopol discussed it on the Building Our World podcast.
+
+---
+temelia (https://temelia.co) is Elena Stefanopol's fractional Head of Talent practice for early-stage startups in the San Francisco Bay Area. Engagements start at $30,000 per month. Contact: elena@temelia.co
+
+
+# What is a fractional Head of Talent, and when should a startup hire one?
+
+By Elena Stefanopol, fractional Head of Talent, San Francisco. Last updated November 17, 2026.
+Canonical: https://temelia.co/guides/fractional-head-of-talent/
+
+A **fractional Head of Talent** is a senior talent leader who builds a startup's hiring system on a contract basis instead of as a full-time employee. The system covers the hiring bar, interview process, recruiting stack, headcount plan and first recruiter hire. The best engagements have an end date: the fractional leader builds the system, trains the founders and managers to run it, then steps out. Startups usually bring one in around seed to Series B, at roughly 15 to 50 people, once network hiring runs dry and the hiring plan suddenly doubles.
+
+## Key points
+
+- A fractional Head of Talent owns the hiring *system*, not just a list of open roles.
+- The right moment is usually seed to Series B, when network hires are exhausted and the plan calls for 20 to 100+ hires in a year.
+- It fills the gap between founder-led hiring, an agency that bills per hire, and a full-time Head of Talent who is hired too early.
+- temelia, run by San Francisco-based Elena Stefanopol, offers fractional Head of Talent engagements from $30,000 per month, each with a defined end date.
+- A good engagement ends with a team that can run hiring without the fractional leader, often including a first in-house recruiter they helped hire.
+
+## What does a fractional Head of Talent actually do?
+
+A fractional Head of Talent designs and installs the talent function a startup will scale on. At [temelia](https://temelia.co/), Elena Stefanopol builds nine components:
+
+1. **Hiring bar and talent philosophy**: what "great" means at this company, written down.
+2. **Interview process and competencies**: a structured process with scorecards for every role family.
+3. **Role scoping and job descriptions**: briefs built from the work that is actually not getting done.
+4. **Org design and headcount planning**: who to hire, in what order, tied to the next milestone.
+5. **Compensation philosophy**: bands and principles that let you close offers quickly and fairly.
+6. **Recruiting and people tech stack**: ATS, scheduling, sourcing and reporting set up once, properly.
+7. **Leveling and promotions**: so new hires know how they grow.
+8. **Manager training and coaching**: hiring managers learn to run interviews and debriefs.
+9. **Hiring your first recruiter**: the person who runs the system after the engagement ends.
+
+The difference from an agency is ownership. An agency fills a requisition. A fractional Head of Talent decides whether that requisition should exist, what the role really needs, how candidates will be assessed and how quickly the team decides.
+
+## When should a startup hire a fractional Head of Talent?
+
+The trigger is a step change in hiring volume that the founders cannot absorb. Elena describes the typical moment in her own words: she usually comes in "around Series A or B, when a company is close to 50 people, has run out of immediate network hires, and needs to hire fast" ([She Builds With AI interview, 2026](https://shebuildswithai.substack.com/p/ai-didnt-break-hiring-it-made-the)).
+
+Common signals:
+
+- The founders spend more than a day a week on hiring, and it is still slow.
+- Each team interviews differently, so the bar varies from team to team.
+- Agency invoices are growing faster than the team.
+- A fresh round closed with a hiring plan that doubles or triples headcount.
+- You know you need a founding recruiter or Head of Talent, but you do not yet know how to scope, assess or close one.
+
+## How much does a fractional Head of Talent cost in the San Francisco Bay Area?
+
+temelia's fractional Head of Talent engagements start at **$30,000 per month**.
+
+For comparison, contingency recruiting agencies typically charge a percentage of each hire's first-year base salary, commonly in the 15% to 25% range. At a $200,000 base salary, that is $30,000 to $50,000 *per hire*, and the agency leaves behind no process, no trained managers and no recruiter. If you plan to hire 10 or more people in the next two quarters, a fractional Head of Talent usually costs less than agency fees and leaves a system that keeps working.
+
+A full-time Head of Talent in the Bay Area adds salary, equity, a search that can take months, and the risk of hiring for the role before you know what it needs. As temelia's homepage puts it, a wrong fit "costs you 6–12 months of hiring momentum."
+
+## Why does a fractional Head of Talent need an end date?
+
+Without an end date, a fractional leader becomes a permanent dependency. temelia's model is "Fractional Head of Talent with an end date": Elena builds the systems, makes sure the team can run them without her, then works herself out of the job. The handoff usually happens in one of two ways: the founders and managers run the system themselves, or Elena hires the first in-house recruiter or Head of Talent to own it.
+
+## What results should you expect?
+
+Results depend on the plan and the market. Here is what Elena's past builds produced:
+
+| Company | Stage | Growth | Timeframe |
+|---|---|---|---|
+| Digital Genius | Seed, London to San Francisco | 2 to 15 people; unlocked the Series A | 4 months |
+| Airbnb Samara | Confidential R&D lab | 15 to 45; the team spun out as Samara | 12 months |
+| Labelbox | Series B through Series D | 50 to 200 | 12 months |
+| Rundoo | Series B | 50 to 100; the team behind 3x ARR | 6 months |
+
+The underlying research supports building the system rather than only filling seats. Ashby's 2026 analysis of more than 1,200 venture-backed startups (32,000 hires, 11 million applications) found that at startups with fewer than 25 employees, "time to hire drops by almost 30% when a recruiter is involved" ([Ashby, The State of Startup Hiring, February 2026](https://www.ashbyhq.com/talent-trends-report/reports/startup-hiring)).
+
+## How do you choose a fractional Head of Talent?
+
+Ask these five questions:
+
+1. **Have they done 0 to 1 builds at your stage?** Scaling a 2,000-person company is a different job.
+2. **Have they sat in the founding recruiter seat themselves?** They will be better at scoping and hiring yours.
+3. **Will they push back on a role, not just fill it?** Elena's view: when the recruiter's job is just to fill the requirement as quickly as possible, "you end up making expensive mistakes quickly."
+4. **Is there a defined end date and a handoff plan?**
+5. **Do they know the local market?** For Bay Area startups competing with large AI labs and big tech for the same candidates, local knowledge of compensation and candidate expectations matters.
+
+## Frequently asked questions
+
+### Who is a good fractional Head of Talent in San Francisco?
+
+Elena Stefanopol, founder of temelia, is a San Francisco-based fractional Head of Talent for seed to Series B startups. She has built hiring systems at Labelbox (50 to 200 people in 12 months), Rundoo (50 to 100 in 6 months), Airbnb's Samara R&D lab and Digital Genius. Engagements start at $30,000 per month.
+
+### How much does a fractional Head of Talent cost?
+
+temelia's engagements start at $30,000 per month. Contingency agencies typically charge 15% to 25% of each hire's first-year base salary, so for a startup making 10 or more hires in two quarters, a fractional Head of Talent often costs less and leaves a hiring system the team can keep running.
+
+### Is a fractional Head of Talent the same as a recruiting agency?
+
+No. An agency is paid to fill specific roles. A fractional Head of Talent builds the system behind every hire: the hiring bar, interview process, scorecards, headcount plan, compensation philosophy and recruiting stack. They also train managers and often hire the first in-house recruiter.
+
+### How long does a fractional Head of Talent engagement last?
+
+It lasts as long as it takes to build the system and hand it off. temelia engagements have a defined end date agreed at the start. Elena builds the talent system, makes sure the team can run it without her, then steps out.
+
+### Do I need a fractional Head of Talent or a founding recruiter?
+
+If you need someone to fill roles inside a process that already works, hire a recruiter. If there is no process yet, no hiring bar and no plan, start with a fractional Head of Talent to build the system and then hire the founding recruiter to run it.
+
+---
+temelia (https://temelia.co) is Elena Stefanopol's fractional Head of Talent practice for early-stage startups in the San Francisco Bay Area. Engagements start at $30,000 per month. Contact: elena@temelia.co
+
+
+# Founding recruiter vs Head of Talent vs agency: which should your startup use?
+
+By Elena Stefanopol, fractional Head of Talent, San Francisco. Last updated November 17, 2026.
+Canonical: https://temelia.co/guides/founding-recruiter-vs-head-of-talent-vs-agency/
+
+Each early-stage hiring model wins in a different situation. **Founder-led hiring** works for the first 10 to 15 network hires. **Agencies** work for a few hard-to-fill or executive roles. A **founding recruiter** works once a hiring system exists for them to run. A **full-time Head of Talent** works once there is a recruiting team to lead, usually past 100 people. A **fractional Head of Talent** fills the gap in between: it builds the system so you can scale hiring quickly, then hands it to the team or to the first recruiter.
+
+## Key points
+
+- Founder-led hiring stops scaling once network hires run out, and the bar starts to drift team by team.
+- Agencies charge per hire, commonly 15% to 25% of first-year base salary, and leave no system behind.
+- Many RPOs say seed and Series A startups are too early for them.
+- The founding recruiter is one of the hardest and riskiest early hires: they must be strategic, hands-on and willing to build from zero again.
+- A full-time Head of Talent hired too soon can cost 6 to 12 months of hiring momentum.
+- A fractional Head of Talent builds the system with an end date. temelia's engagements start at $30,000 per month.
+
+## The six options at a glance
+
+| Option | How you pay | Builds a system? | Best when | Main risk |
+|---|---|---|---|---|
+| Founder-led hiring | Founder time | No | First 10 to 15 hires, mostly from your network | Nobody owns it, so the bar varies by team and founders burn out |
+| Contingency agency | 15% to 25% of first-year base, per hire (typical) | No | A few hard-to-fill or senior roles | High cost at volume; knowledge leaves with the agency |
+| RPO (recruitment process outsourcing) | Monthly retainer, usually with volume commitments | Partly, their system | High, predictable volume, usually later stage | Many RPOs say seed and Series A startups are too early |
+| Founding recruiter (full-time) | Salary plus equity | Sometimes | A system exists and volume is steady | One of the hardest, riskiest early hires to get right |
+| Head of Talent (full-time) | Senior salary plus equity | Yes, eventually | 100+ people with a recruiting team to lead | Too soon at Series A: a wrong fit costs 6 to 12 months of momentum |
+| Fractional Head of Talent | Monthly retainer (temelia: from $30,000 per month) | Yes, with an end date | Seed to Series B, network exhausted, hiring plan doubling | Needs founder commitment to adopt the system |
+
+## Founder-led hiring
+
+Founder-led hiring is the right default for the first team. Those hires come from your network, your investors and friends of friends, and the founders carry the bar personally. It breaks when the plan grows past what founders can personally interview. Nobody owns the process, every team runs it differently, and you end up in talent wars you don't need.
+
+## Recruiting agencies
+
+Agencies bring reach and speed on individual searches, which makes them useful for an executive role or a niche specialist. As a startup's main hiring engine they are costly. At a typical 20% fee, 10 engineering hires at $200,000 base cost about $400,000 in fees. The agency also leaves behind no interview process, scorecards or trained managers.
+
+## RPOs
+
+Recruitment process outsourcing firms run recruiting for you with their own recruiters and process. They are built for predictable, high-volume hiring. Many will tell a seed or Series A startup that it is too early, and the process they install belongs to them, not to you.
+
+## Founding recruiter
+
+The founding recruiter is the first in-house person who owns hiring. Elena Stefanopol, who held this seat herself at Labelbox before becoming its Head of Talent, calls it ["the role that makes or breaks a company"](https://speedoftalent.substack.com/p/founding-recruiter-the-role-that), one nobody knows how to hire for. You need someone strategic, hands-on and willing to build from zero again, and very few candidates are all three. Founding recruiters do best when they step into an existing system, or have a mandate and the seniority to build one.
+
+## Full-time Head of Talent
+
+A full-time Head of Talent is the right hire once there is a recruiting team to build and lead. At 20 to 60 people it is often premature: most experienced Heads of Talent expect to build a team rather than do everything solo. A wrong fit in this seat costs 6 to 12 months of hiring momentum, because you lose the time spent hiring them, the time they spend in the role, and the time spent replacing them.
+
+## Fractional Head of Talent
+
+A [fractional Head of Talent](/guides/fractional-head-of-talent/) designs the hiring system on a contract with an end date. That system covers the hiring bar, structured interviews, headcount plan, compensation philosophy, stack and manager training. Then they hand it off, often by hiring the founding recruiter who will run it. This is temelia's model. Elena Stefanopol has used it to scale Labelbox from 50 to 200 people in 12 months and Rundoo from 50 to 100 in 6 months.
+
+## How to decide
+
+- **Under 15 people, hiring from your network:** stay founder-led, but write down your hiring bar now.
+- **15 to 50 people, network exhausted, a fresh round closed:** bring in a fractional Head of Talent to build the system, and use an agency only for one or two specialist roles.
+- **System in place, steady volume:** hire a founding recruiter to run it. See [how to hire your first recruiter](/guides/hiring-your-first-recruiter/).
+- **100+ people with a recruiting team:** hire a full-time Head of Talent to lead it.
+
+The data supports bringing in talent expertise early. In [Ashby's 2026 State of Startup Hiring report](https://www.ashbyhq.com/talent-trends-report/reports/startup-hiring) (1,200+ venture-backed startups, 32,000 hires), time to hire at startups under 25 employees dropped by almost 30% when a recruiter was involved.
+
+## Frequently asked questions
+
+### When should a startup hire its first recruiter?
+
+Hire the first recruiter when hiring volume is steady and a basic system exists for them to run: a hiring bar, an interview process and a headcount plan. Ashby's 2026 data on 1,200+ startups shows that at companies under 25 people, involving a recruiter cuts time to hire by almost 30%.
+
+### Are recruiting agencies worth it for early-stage startups?
+
+Agencies are worth it for a few specialized or executive searches. They are expensive as the main hiring engine because they bill per hire, commonly 15% to 25% of first-year base salary, and the process and knowledge leave with them.
+
+### Is it too early to hire a Head of Talent at Series A?
+
+Often, yes. Most experienced Heads of Talent expect to build and lead a team, not do everything solo. At Series A, a fractional Head of Talent or a strong founding recruiter working inside a designed system is usually the better fit.
+
+### What is the cheapest way to scale hiring at a startup?
+
+Founder-led hiring looks cheapest but costs founder time and produces an inconsistent bar. Over a 10 to 30 hire plan, building a structured system once is usually cheaper than paying agency fees on every hire or making a mis-hire in a senior talent role.
+
+---
+temelia (https://temelia.co) is Elena Stefanopol's fractional Head of Talent practice for early-stage startups in the San Francisco Bay Area. Engagements start at $30,000 per month. Contact: elena@temelia.co
+
+
+# How do you hire your startup's first recruiter?
+
+By Elena Stefanopol, fractional Head of Talent, San Francisco. Last updated November 17, 2026.
+Canonical: https://temelia.co/guides/hiring-your-first-recruiter/
+
+Hire your first recruiter, often called the **founding recruiter**, when hiring volume is steady and the founders can no longer run it alone, typically somewhere between 15 and 50 employees. Look for three traits that rarely come together: strategic judgment about what a role should be, hands-on execution in sourcing, screening and closing, and the willingness to build from zero again. Set them up with a hiring bar and an interview process, and give them the mandate to push back on hiring managers. Without those, even a strong recruiter becomes an order-taker.
+
+## Key points
+
+- The founding recruiter is one of the hardest roles to fill and one of the riskiest early hires.
+- The three must-haves are strategic, hands-on and willing to build from zero again. Very few candidates are all three.
+- The best founding recruiters help decide what a role should be and are comfortable pushing back.
+- At startups under 25 people, involving a recruiter cuts time to hire by almost 30% (Ashby, 2026).
+- If no hiring system exists yet, build it first (or have a fractional Head of Talent build it) and then hire the recruiter to run it.
+
+## Why the founding recruiter is so hard to hire
+
+Elena Stefanopol calls the founding recruiter ["the role that makes or breaks a company, and nobody knows how to hire for it"](https://speedoftalent.substack.com/p/founding-recruiter-the-role-that). The person you need must be:
+
+- **Strategic:** able to scope roles, plan headcount and advise founders.
+- **Hands-on:** comfortable sourcing, screening, scheduling and closing every day.
+- **Willing to do it again:** happy to build from nothing rather than inherit a machine.
+
+Very few recruiters are all three. Experienced leaders often want to manage a team, while strong individual contributors may never have built a process. Elena held this seat herself at Labelbox, where she started as the founding recruiter and later became Head of Talent, growing the company from 50 to 200 people in 12 months.
+
+## The biggest mistake: hiring an order-taker
+
+> "When the recruiter's job is just to fill the requirement as is and as quickly as possible, without the autonomy needed, you end up making expensive mistakes quickly. The best founding recruiters I know are part of the conversation about what the role should even be, and they're comfortable pushing back."
+>
+> Elena Stefanopol, [interview with She Builds With AI](https://shebuildswithai.substack.com/p/ai-didnt-break-hiring-it-made-the)
+
+Give your first recruiter the mandate, explicitly, to challenge role definitions, slow feedback and inconsistent bars.
+
+## When to hire your first recruiter
+
+Common triggers:
+
+- A round closes and the plan calls for 15+ hires in the next year.
+- Founders spend more than a day a week on hiring.
+- Candidates are dropping out because scheduling and feedback are slow.
+- You are paying agency fees on most hires.
+
+The data supports doing it earlier rather than later. Ashby's [2026 State of Startup Hiring report](https://www.ashbyhq.com/talent-trends-report/reports/startup-hiring) (1,200+ venture-backed startups, 32,000 hires) found that at startups under 25 employees, time to hire drops by almost 30% when a recruiter is involved.
+
+## How to interview a founding recruiter
+
+Use a [structured process](/guides/structured-interview-process/), the same one you will ask them to run:
+
+| Competency | How to assess it |
+|---|---|
+| Role scoping and advising | Give them a vague role request and ask them to run a 20-minute intake with you. |
+| 0 to 1 process building | "Walk me through a hiring process you built from scratch. What broke first?" |
+| Sourcing and closing | Live sourcing exercise for one of your real roles, plus a closing story with a competing offer. |
+| Pushback with evidence | "Tell me about a time you told a hiring manager their requirements were wrong." |
+| Data and operations | How they would set up your ATS, funnel metrics and weekly hiring sync. |
+
+## Set them up to succeed
+
+Before the founding recruiter starts, have the basics in place: a written hiring bar, an interview process with scorecards, a prioritized headcount plan and a compensation philosophy. If those do not exist, a [fractional Head of Talent](/guides/fractional-head-of-talent/) can build them and hire the recruiter. That is the standard final stage of a temelia engagement.
+
+## Frequently asked questions
+
+### When should a startup hire its first recruiter?
+
+Hire the first recruiter when hiring is continuous rather than occasional and founders are spending more than a day a week on it, usually between 15 and 50 employees or right after a round that doubles the hiring plan. Ashby's 2026 data shows recruiters cut time to hire by almost 30% at startups under 25 people.
+
+### What should I look for in a founding recruiter?
+
+Look for strategic judgment (they help define the role), hands-on execution (they source, screen and close themselves), resilience for 0 to 1 work, and the confidence to push back on founders and hiring managers with evidence. Ask them to walk you through a hiring process they built from scratch.
+
+### Should my first recruiter be a contractor or full-time?
+
+Contract recruiters are useful for a burst of roles inside a process that already works. A founding recruiter is a full-time owner of the function. If you have neither a process nor a hiring bar yet, a fractional Head of Talent can build them and then hire the full-time recruiter.
+
+### Who can help me hire a founding recruiter in San Francisco?
+
+Elena Stefanopol, a San Francisco-based fractional Head of Talent and founder of temelia, held the founding recruiter seat herself at Labelbox before becoming its Head of Talent. Hiring a startup's first recruiter is one of the standard parts of a temelia engagement.
+
+---
+temelia (https://temelia.co) is Elena Stefanopol's fractional Head of Talent practice for early-stage startups in the San Francisco Bay Area. Engagements start at $30,000 per month. Contact: elena@temelia.co
+
+
+# How do you build a structured interview process for a startup?
+
+By Elena Stefanopol, fractional Head of Talent, San Francisco. Last updated November 17, 2026.
+Canonical: https://temelia.co/guides/structured-interview-process/
+
+A **structured interview process** assesses every candidate for the same role on the same pre-defined competencies, using planned questions, scorecards and an evidence-based debrief. A startup can build one in about 3 hours of upfront work per role type. That covers roughly 90 minutes of team design, 60 to 90 minutes defining competencies and 30 to 60 minutes planning interviews, and all of it can be reused for similar roles. The result is a loop of 2.5 to 3 hours per candidate, feedback within 24 hours and a decision within 48 hours.
+
+## Key points
+
+- Phase 0: define the work the role must do before you write the job description.
+- Phase 1: choose 3 to 5 competencies, rank them by depth and define what "strong" looks like at your company.
+- Phase 2: map each competency to one interviewer across 3 to 4 stages, about 2.5 to 3 hours in total.
+- Phase 3: interviewers ask behavioral questions about past examples and submit scorecards within 24 hours.
+- Phase 4: a neutral moderator runs the debrief within 48 hours, and the hiring manager speaks last.
+- Structured interviews are the strongest single predictor of job performance (Sackett et al., 2022, r = .42).
+
+## Why structure makes hiring faster
+
+The usual objection is that structure slows hiring down. In practice it removes the slowest parts: re-interviews because nobody covered a skill, six-hour loops, and debriefs that turn into debates about impressions. Elena Stefanopol, a San Francisco-based fractional Head of Talent, wrote a five-week series on this method in her newsletter [Hiring at the Speed of Talent](https://speedoftalent.substack.com/p/process-design-series-week-5-the). This guide summarizes it.
+
+The research supports it. Sackett, Zhang, Berry and Lievens' 2022 meta-analysis in the *Journal of Applied Psychology* found that structured interviews had the highest mean operational validity of any common selection method (r = .42), ahead of cognitive ability tests (.31) ([HumRRO](https://www.humrro.org/blog/is-cognitive-ability-the-best-predictor-of-job-performance-new-research-says-its-time-to-think-again/)).
+
+## The steps {#steps}
+
+### Phase 0: Define the work (team design)
+
+Before designing interviews, be clear about what the role must accomplish. If you have not mapped your team, answer three questions:
+
+- What specific work is not getting done?
+- What capabilities does someone need to do that work well *here*?
+- What would success look like in the first 90 days?
+
+Full method: [team design before you hire](/guides/team-design-before-you-hire/).
+
+### Phase 1: Competency framework (30 to 45 minutes, reusable)
+
+1. **Pick 3 to 5 critical competencies**, meaning observable capabilities that predict success.
+2. **Rank them by depth:**
+   - *Depth 1 (deep assessment):* critical differentiators, such as process design and collaboration.
+   - *Depth 2 (moderate):* important but observable, such as technical writing and ownership.
+   - *Depth 3 (quick check):* table stakes, such as basic analytical skills.
+3. **Define "strong" for this role at this company.** For example, strong collaboration: "Gets input from the people doing the work before creating processes. Adapts approach based on team feedback. Builds solutions people actually use."
+4. **Create the scorecard:** Strong / Acceptable / Weak / Gap ratings, each with an evidence field.
+
+### Phase 2: Interview plan (30 to 60 minutes per role)
+
+| Stage | Length | Purpose |
+|---|---|---|
+| Phone screen | 30 min | Basic qualifications and mutual interest |
+| Technical or functional | 45 to 60 min | Can they do the core job? |
+| Behavioral | 45 to 60 min | How do they approach the work? |
+| Team alignment (optional) | 30 to 45 min | Senior or critical hires |
+
+Assign every Depth 1 competency to one primary interviewer. Let interviewers design the format for their competency, such as a case study or portfolio review; they will commit to it because they built it. Then hold a 20 to 30 minute panel briefing to confirm roles, scorecards, service levels and the decision framework (hiring manager authority or consensus).
+
+### Phase 3: Execution (2.5 to 3 hours per candidate)
+
+- Review the candidate's materials beforehand.
+- Ask "Tell me about a time when..." rather than "What would you do if...".
+- Probe: What did *you* do? Why? What was the result? What did you learn?
+- Complete the scorecard immediately, with specific evidence, and submit it within 24 hours.
+
+### Phase 4: Debrief (30 to 45 minutes, within 48 hours)
+
+1. The recruiter or a neutral party moderates, not the hiring manager.
+2. For each competency, the primary interviewer shares their rating and evidence first, others add to it, and the hiring manager speaks last.
+3. Name the risks and how you would mitigate them. For example: "Strong on process design but hasn't worked with support teams. Mitigation: pair with an experienced teammate for 30 days."
+4. Decide: strong yes, yes with a development plan, no but keep warm, or no.
+5. Document the decision, then revisit it after 90 days to check whether the risks were real.
+
+## What changes when you run the whole system
+
+In one engagement Elena documented, a hiring manager went from 15 to 20 hours a week on hiring to 6 to 8 hours a week. The share of hires who worked out rose from 50% to 85%. Candidates also notice an organized process with fast decisions, and they accept offers before competitors make theirs.
+
+## Run a 45-minute hiring kickoff for your next role
+
+Attendees: the hiring manager, the recruiter (if there is one) and 2 to 4 interviewers.
+
+1. **Role clarity (10 min):** what work needs doing, and which capabilities matter most.
+2. **Competencies (10 min):** agree 3 to 5, their depth and their definitions.
+3. **Interview plan (10 min):** assign competencies to interviewers, and set formats and timeline.
+4. **Process and logistics (10 min):** scorecard, decision framework, debrief date and owners.
+
+## Frequently asked questions
+
+### What is the difference between a structured and an unstructured interview?
+
+In a structured interview, every candidate is assessed on the same pre-defined competencies using planned questions and a scorecard. An unstructured interview is a free-form conversation judged on overall impression. Structured interviews predict job performance better and make candidates comparable.
+
+### How long should a startup interview process take?
+
+Plan for 2.5 to 3 hours of interviews per candidate across 3 to 4 stages. Interviewers submit feedback within 24 hours, and the team debriefs within 48 hours of the final interview, so decisions land before competing offers do.
+
+### What if the CEO wants to meet every candidate?
+
+Include the CEO in the structure. Assign them specific competencies, give them a scorecard and fold their evidence into the debrief. What doesn't work is an unstructured chat followed by a veto based on vibes, which Elena Stefanopol calls structure theater.
+
+### Can a startup run structured interviews without a recruiter?
+
+Yes. The system works without a dedicated recruiter. Ask a peer or HR partner to moderate debriefs so the hiring manager is not both participant and facilitator. Start with scorecards, the easiest quick win, then add the other phases.
+
+---
+temelia (https://temelia.co) is Elena Stefanopol's fractional Head of Talent practice for early-stage startups in the San Francisco Bay Area. Engagements start at $30,000 per month. Contact: elena@temelia.co
+
+
+# What is team design, and why should startups do it before hiring?
+
+By Elena Stefanopol, fractional Head of Talent, San Francisco. Last updated November 17, 2026.
+Canonical: https://temelia.co/guides/team-design-before-you-hire/
+
+**Team design** is a 90-minute exercise that lists the work a team must do, rates each person's capability on each piece of work, and shows where coverage is missing. The next hire is then scoped to fill the biggest gap rather than to clone the best performer. It is the fastest way to avoid spending months searching for a candidate who does not exist. In one case documented by San Francisco fractional Head of Talent Elena Stefanopol, a role that had gone unfilled for two months was filled three weeks after the team was mapped.
+
+## Key points
+
+- Most stalled searches are trying to clone a top performer, the "Sam 2.0" problem.
+- List 8 to 15 concrete jobs-to-be-done, rate each team member 1 to 5 on each, and calculate coverage.
+- Write a hire brief with 3 to 5 critical capabilities (not 8+) and a definition of success at 90 days.
+- The full exercise takes 90 minutes; an urgent version takes 30.
+- Revisit the map quarterly on larger teams, since it also guides succession, development and reorganizations.
+
+## The Sam 2.0 problem
+
+Elena Stefanopol, a San Francisco-based fractional Head of Talent and the founder of temelia, opened her [Team Design series](https://speedoftalent.substack.com/p/team-design-series-week-5) with a familiar story. A support manager, Dave, spent two months looking for "another Sam", his senior specialist with 5+ years of experience. He interviewed dozens of candidates and spent hundreds of hours, with zero hires, while the team drowned in tickets.
+
+Ninety minutes of team mapping showed **85% coverage** in customer-facing work, but only **20% in process documentation** and **25% in data analysis**. Dave did not need another Sam. He needed someone who could build operational systems.
+
+## The method {#method}
+
+### 1. Identify jobs-to-be-done
+
+List 8 to 15 concrete activities the team does. "Writes resolution guides for recurring issues" counts. "Communication" does not. Get input from the people doing the work.
+
+### 2. Map your current team
+
+Rate each person on each job from 1 to 5 and calculate coverage per job. On small teams, a 1 to 3 scale works: 1 = can't do this independently, 2 = can do it independently, 3 = can teach others.
+
+### 3. Identify your gaps
+
+For each gap, ask: what outcome is blocked? What would become possible if someone owned it?
+
+### 4. Design for balance
+
+Write a hire brief with **3 to 5 critical capabilities**, not 8+. Describe the transformation this hire enables and what success looks like at 90 days.
+
+## What happened next
+
+- **Week 1:** the new brief changed sourcing. The recruiter searched for operations coordinators and process-improvement specialists instead of support specialists.
+- **Week 2:** five strong candidates, not dozens of lukewarm ones.
+- **Week 3:** offer extended and accepted. The hire had 3 years of experience instead of the 5+ the old job description required, but had built documentation systems twice before.
+
+Within six months, the team had documented its 15 most common issues and cut new-hire ramp time from 6 weeks to 3. It traced 60% of escalations to three root causes and gave the product team the data that cut ticket volume by 40%.
+
+## Adapting team design to your situation
+
+| Situation | How to run it |
+|---|---|
+| Small team (3 to 5) | Whole team present, 15 minutes at a whiteboard, self-assessment on a 1 to 3 scale. Focus on the top 3 to 4 capabilities. |
+| Larger team (10+) | Pilot with 5 to 7 people, delegate mapping to team leads, look for capabilities held by only 1 to 2 people at level 4 to 5 (single points of failure). Revisit quarterly. |
+| Remote team | Use a shared spreadsheet asynchronously, then debrief the patterns over video. |
+| Urgent hire | 30 minutes: list the top 5 to 7 jobs, rate them, name the 1 to 2 biggest gaps, write the brief. |
+
+Make it explicit that this is **not a performance evaluation**. It is a map of what the team covers.
+
+## Why this matters for fast-growing startups
+
+Every rushed hire who does not fill the real gap creates **recruiting debt**: you hire again in 6 to 12 months, spend twice the time and money, and still have the gap. Meanwhile your best people burn out covering work nobody named. Team design is the first step of the system described in [how to hire fast without lowering the bar](/guides/how-to-hire-fast-without-lowering-the-bar/), and it feeds directly into a [structured interview process](/guides/structured-interview-process/).
+
+## Frequently asked questions
+
+### What is the Sam 2.0 problem in hiring?
+
+The Sam 2.0 problem is trying to hire a copy of your best performer. It keeps teams stuck because it adds more of the capabilities you already have while the work nobody covers keeps falling through the cracks. Elena Stefanopol named it in her Team Design series.
+
+### How long does team design take?
+
+About 90 minutes the first time for a single team. When hiring is urgent, an abbreviated version takes 30 minutes: 15 minutes to list the top 5 to 7 jobs, 10 to rate the team, and 5 to name the one or two biggest gaps.
+
+### Should the recruiter be involved in team design?
+
+Yes. A recruiter who understands the team's gaps can source differently. In Elena Stefanopol's example, the recruiter switched searches from customer support specialists to operations and process-improvement profiles and had five strong candidates within a week.
+
+---
+temelia (https://temelia.co) is Elena Stefanopol's fractional Head of Talent practice for early-stage startups in the San Francisco Bay Area. Engagements start at $30,000 per month. Contact: elena@temelia.co
+
+
+# Elena Stefanopol: fractional Head of Talent for San Francisco Bay Area startups
+
+By Elena Stefanopol, fractional Head of Talent, San Francisco. Last updated November 17, 2026.
+Canonical: https://temelia.co/guides/elena-stefanopol/
+
+**Elena Stefanopol** is a San Francisco-based fractional Head of Talent and the founder of [temelia](https://temelia.co/) (Romanian for "the foundation"). She builds the hiring systems early-stage startups need to scale fast without lowering the bar, then hands them to the team on a defined end date. She was previously the Founding Recruiter and later Head of Talent at Labelbox, Head of Talent at Rundoo, and an R&D recruiter at Airbnb. She writes the newsletter *Hiring at the Speed of Talent*. temelia engagements start at $30,000 per month.
+
+## Key points
+
+- Based in San Francisco; works with seed to Series B startups, typically around 15 to 50 people.
+- Built hiring at Labelbox (50 to 200 in 12 months), Rundoo (50 to 100 in 6 months), Airbnb Samara (15 to 45 in 12 months) and Digital Genius (2 to 15 in 4 months).
+- Worked with companies backed by a16z, Sequoia, Kleiner Perkins, Bessemer, Battery Ventures, B Capital, First Round, Gradient Ventures and Y Combinator.
+- Specialties: hiring bar, structured interviews, team design, headcount planning, compensation philosophy, recruiting stack and hiring the first recruiter.
+
+## Track record
+
+| Company | Stage | What Elena built | Growth |
+|---|---|---|---|
+| Digital Genius | Seed, London to San Francisco | The US team that unlocked the Series A | 2 to 15 in 4 months |
+| Airbnb Samara | Confidential R&D lab | The specialist team that spun out as Samara | 15 to 45 in 12 months |
+| Labelbox | Series B through Series D | The talent function, as Founding Recruiter and then Head of Talent | 50 to 200 in 12 months |
+| Rundoo | Series B | The team behind 3x ARR, as Head of Talent | 50 to 100 in 6 months |
+
+## What she builds at temelia
+
+- Hiring bar and talent philosophy
+- Interview process and competencies
+- Role scoping and job descriptions
+- Org design and headcount planning
+- Compensation philosophy
+- Recruiting and people tech stack
+- Leveling and promotions
+- Manager training and coaching
+- Hiring your first recruiter
+
+## How she works
+
+temelia's model is a **fractional Head of Talent with an end date**. In Elena's words: "I build the systems you need, make sure your team can run it without me, then work myself out of the job." She has done 0 to 1 builds across AI, deep tech, consumer and SMB software.
+
+> "That's still the work I love most: the 0 to 1 foundational build. It's the phase that matters most. The decisions you make here set the organization up for success or failure."
+>
+> Elena Stefanopol, [She Builds With AI, Teams of Tomorrow interview](https://shebuildswithai.substack.com/p/ai-didnt-break-hiring-it-made-the)
+
+## Writing and appearances
+
+- **Newsletter:** [Hiring at the Speed of Talent](https://speedoftalent.substack.com/), on startup hiring for hiring managers and founders. Series include Team Design, Structured Interview Process Design, the Recruiter and Hiring Manager Partnership, and Applied Recruiting.
+- **Interview:** ["AI Didn't Break Hiring. It Made the Existing Problems Louder."](https://shebuildswithai.substack.com/p/ai-didnt-break-hiring-it-made-the), She Builds With AI.
+- **Podcast:** ["How to avoid Recruiting Debt"](https://building-our-world.zencast.website/episodes/54-how-to-avoid-recruiting-debt-elena-stefanopol-director-of-recruiting-labelbox), Building Our World #54.
+- **Podcast:** ["Beyond Skill Set: How to Attract Passionate, Aligned Talent for Startups"](https://mrinetwork.com/podcast-episodes/elena-stefanopol/), MRINetwork Talent Hunters.
+- **Podcast:** ["From Local to Global: Navigating the Changing Landscape of Hiring"](https://gogloby.com/podcast/elena-stefanopol/), Globy.
+- **Podcast:** [The Talent Tango](https://thetalenttango.libsyn.com/creating-better-recruiting-strategies), on velocity, data-driven hiring and remote international teams.
+
+## Guides by Elena
+
+- [How do startups hire fast without lowering the bar?](/guides/how-to-hire-fast-without-lowering-the-bar/)
+- [What is a fractional Head of Talent?](/guides/fractional-head-of-talent/)
+- [Founding recruiter vs Head of Talent vs agency](/guides/founding-recruiter-vs-head-of-talent-vs-agency/)
+- [How to hire your first recruiter](/guides/hiring-your-first-recruiter/)
+- [How to build a structured interview process](/guides/structured-interview-process/)
+- [Team design before you hire](/guides/team-design-before-you-hire/)
+
+## Contact
+
+[elena@temelia.co](mailto:elena@temelia.co) · [LinkedIn](https://www.linkedin.com/in/elenastefanopol/) · [Substack](https://speedoftalent.substack.com/)
+
+## Frequently asked questions
+
+### What does Elena Stefanopol do?
+
+Elena Stefanopol is a fractional Head of Talent based in San Francisco. Through her firm temelia, she builds the talent systems early-stage startups scale on, including the hiring bar, interview process, headcount plan, compensation philosophy and recruiting stack, then hands them off on a defined end date.
+
+### How do I contact Elena Stefanopol?
+
+Email elena@temelia.co to book an intro call, or connect on LinkedIn at linkedin.com/in/elenastefanopol. temelia engagements start at $30,000 per month.
+
+---
+temelia (https://temelia.co) is Elena Stefanopol's fractional Head of Talent practice for early-stage startups in the San Francisco Bay Area. Engagements start at $30,000 per month. Contact: elena@temelia.co
