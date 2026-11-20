@@ -29,7 +29,7 @@ ORG_ID = f"{SITE}/#organization"
 PERSON_ID = f"{SITE}/#elena"
 WEBSITE_ID = f"{SITE}/#website"
 
-BOOKING_URL = "https://cal.com/temelia/30min"
+BOOKING_URL = "https://calendar.proton.me/bookings#3gFM4cFk7d0RPZbrBnx_1GV9eL0Fg8fDfBWRReKhZmw="
 
 
 def load_guides():
